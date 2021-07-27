@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1052.3622"
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="front.svg">
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="front.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -89,18 +89,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1974286"
-     inkscape:cx="525.34597"
+     inkscape:cx="525.29228"
      inkscape:cy="372.04724"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="mm"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     borderlayer="true" />
+     borderlayer="true"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -109,7 +110,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -120,14 +120,14 @@
      transform="translate(0,-308.26767)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';text-align:start;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'TeX Gyre Adventor';-inkscape-font-specification:'TeX Gyre Adventor';text-align:start;text-anchor:start;fill:#800080;fill-opacity:1;stroke:none"
        x="101.35297"
        y="719.83203"
        id="text2816-7-4-4-1-9-9"><tspan
          sodipodi:role="line"
          x="101.35297"
          y="719.83203"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:106px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;text-anchor:start;fill:#35264f;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:106px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold';text-align:start;text-anchor:start;fill:#35264f;fill-opacity:1"
          id="tspan5961-8">aikidoseminar</tspan></text>
     <g
        transform="matrix(0.43200347,0,0,0.43200347,838.66409,874.71552)"
@@ -534,19 +534,18 @@
       </g>
       <text
          transform="scale(1.0098949,0.99020205)"
-         sodipodi:linespacing="125%"
          id="text2236-3-5-1"
          y="285.27863"
          x="208.62778"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.87136841px;line-height:125%;font-family:LMSansQuotation8;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#35264f;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:LMSansQuotation8;text-align:center;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#35264f;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            id="tspan2248-2-7-4"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.87136841px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#35264f;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.8714px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#35264f;fill-opacity:1"
            y="285.27863"
            x="208.62778"
            sodipodi:role="line">Sanshinkai Aikido</tspan><tspan
            id="tspan2246-5-1-2"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.87136841px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#35264f;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.8714px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#35264f;fill-opacity:1"
            y="321.36783"
            x="208.62778"
            sodipodi:role="line">Utrecht</tspan></text>
